@@ -1,0 +1,8 @@
+<IfModule mod_rewrite.c>
+    RewriteEngine on
+    RewriteBase /
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteRule    /member/(.*) /member/uploads/$1    [L]
+    RewriteRule    /member/uploads/(.*) /member/$1    [L,R=302]
+ </IfModule>

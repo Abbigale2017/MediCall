@@ -1,0 +1,67 @@
+ Volume in drive C is Windows
+ Volume Serial Number is B449-A500
+
+ Directory of C:\xampp\htdocs\member
+
+12/28/2016  10:44 AM    <DIR>          .
+12/28/2016  10:44 AM    <DIR>          ..
+12/11/2016  04:47 PM             2,221 .error.php
+12/11/2016  04:47 PM               381 .htaccess
+12/11/2016  04:47 PM    <DIR>          .images
+12/11/2016  04:47 PM            16,975 .sorttable.js
+12/11/2016  04:47 PM             2,973 .style.css
+12/28/2016  10:44 AM                 0 abv.txt
+12/17/2016  09:57 AM             1,232 admin.php
+12/17/2016  10:21 AM             2,164 admindoctors.php
+12/17/2016  10:22 AM             2,163 adminpatients.php
+12/07/2016  04:32 PM    <DIR>          assets
+12/18/2016  04:37 PM    <DIR>          bootstrap
+12/15/2016  03:56 PM               287 caseclose.php
+12/27/2016  05:31 AM             3,736 casedetail.php
+12/22/2016  06:36 PM               964 casedetailmenu.php
+12/28/2016  09:56 AM             2,627 cases.php
+12/27/2016  03:41 PM             9,990 class.user.php
+12/13/2016  06:23 PM               539 constants.php
+12/07/2016  04:42 PM               673 dbconfig.php
+12/07/2016  04:44 PM             1,257 dbtest.sql
+12/27/2016  05:52 PM             8,824 doctor.php
+12/27/2016  03:40 PM             4,902 doctorupdate.php
+12/28/2016  10:17 AM             2,771 feedback.php
+12/28/2016  10:21 AM             1,667 feedbackview.php
+04/20/2016  01:08 PM               203 footer.php
+11/26/2015  07:48 PM             3,143 fpass.php
+12/18/2016  01:34 AM             4,630 h.php
+12/01/2015  11:54 AM             3,848 header.php
+12/16/2016  07:33 AM             6,910 hf.html
+12/16/2016  07:44 AM             3,625 home - Copy.php
+12/22/2016  07:30 AM             4,729 home.php
+12/20/2016  05:42 PM             4,127 homecasedetail.php
+12/21/2016  03:57 PM    <DIR>          images
+12/21/2016  10:20 AM               783 includes.php
+09/13/2015  06:41 AM             2,373 index.php
+09/11/2015  06:52 PM               239 logout.php
+12/27/2016  04:21 PM             8,857 medical2016.sql
+12/23/2016  05:56 AM               885 membersubmenu.php
+12/21/2016  09:48 AM             3,378 navigation.php
+12/28/2016  07:46 AM             5,447 newappointment.php
+12/27/2016  02:48 PM             4,889 newcase.php
+12/27/2016  05:52 PM             9,110 patient.php
+12/22/2016  08:08 AM               589 patientcasesmenu.php
+12/27/2016  05:50 PM             4,480 patientupdate.php
+12/08/2016  09:50 AM    <DIR>          PHPMailer
+09/14/2015  11:16 AM             2,933 resetpass.php
+12/18/2016  11:28 AM    <DIR>          scripts
+12/12/2016  07:09 PM             3,632 signup.php
+12/19/2016  07:44 AM             2,464 skype.php
+12/17/2016  11:34 AM    <DIR>          styles
+12/21/2016  10:00 AM    <DIR>          template
+12/17/2016  10:10 AM            52,089 Termsandconditions.htm
+12/23/2016  01:36 PM             3,591 updatecase.php
+12/14/2016  02:47 PM             2,684 upload.php
+12/26/2016  10:57 AM    <DIR>          uploads
+09/13/2015  06:48 AM             2,469 verify.php
+12/23/2016  01:31 PM               965 viewattachments.php
+12/23/2016  01:26 PM             5,535 viewfiles.php
+12/22/2016  01:55 AM    <DIR>          _notes
+              48 File(s)        214,953 bytes
+              12 Dir(s)  98,802,229,248 bytes free
